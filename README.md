@@ -13,7 +13,7 @@
 - B.Tech CSE, Indian Institute of Information Technology, Guwahati (2022 - 2026)
 
 ## Experience
-### GirlScript Summer of Code (June 2024 - Present)
+### GirlScript Summer of Code (May 2024 - Present)
 Contributor
 - Contributing to the development and enhancement of open-source projects by adding new features and performing website debugging.
 
