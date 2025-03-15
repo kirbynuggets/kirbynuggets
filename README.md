@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-## Hi, I am Arya ✨
+## Hi, I am Arya 👋
 
  🧠 I am enthusiastic about learning how things work.  
  🌱 I’m currently working on finetuning ML models for text translation.  
